@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+  # 2020
+  # Get these from the place.
+
+  # 2021
+  "2021/day01",
+]
