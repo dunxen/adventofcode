@@ -5,5 +5,5 @@ members = [
   # Get these from the place.
 
   # 2021
-  "2021/day01",
+  "2021/aoc2021day01",
 ]
